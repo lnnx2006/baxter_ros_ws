@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/fei/baxter_ros_ws/devel/lib/python3/dist-packages",
+        "/home/fei/robotoc/install/lib/python3.8/site-packages",
+        "/usr/local/lib/python3.8/site-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/fei/baxter_ros_ws/devel/lib/python3/dist-packages",
+        "/home/fei/robotoc/install/lib/python3.8/site-packages",
+        "/usr/local/lib/python3.8/site-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

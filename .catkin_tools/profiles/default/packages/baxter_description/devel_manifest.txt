@@ -1,0 +1,5 @@
+baxter_description
+/home/fei/baxter_ros_ws/devel/.private/baxter_description/cmake.lock /home/fei/baxter_ros_ws/devel/./cmake.lock
+/home/fei/baxter_ros_ws/devel/.private/baxter_description/lib/pkgconfig/baxter_description.pc /home/fei/baxter_ros_ws/devel/lib/pkgconfig/baxter_description.pc
+/home/fei/baxter_ros_ws/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig.cmake /home/fei/baxter_ros_ws/devel/share/baxter_description/cmake/baxter_descriptionConfig.cmake
+/home/fei/baxter_ros_ws/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig-version.cmake /home/fei/baxter_ros_ws/devel/share/baxter_description/cmake/baxter_descriptionConfig-version.cmake

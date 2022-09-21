@@ -1,0 +1,1 @@
+/home/fei/baxter_ros_ws/devel/.private/baxter_maintenance_msgs/lib/python3/dist-packages/baxter_maintenance_msgs/msg/_CalibrateArmEnable.py

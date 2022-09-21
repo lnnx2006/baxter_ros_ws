@@ -1,0 +1,8 @@
+prefix=/home/fei/baxter_ros_ws/install
+
+Name: display_baxter_trajectory
+Description: Description of display_baxter_trajectory
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,3 @@
+Symlinking /home/fei/baxter_ros_ws/devel/lib/pkgconfig/display_baxter_trajectory.pc
+Symlinking /home/fei/baxter_ros_ws/devel/share/display_baxter_trajectory/cmake/display_baxter_trajectoryConfig.cmake
+Symlinking /home/fei/baxter_ros_ws/devel/share/display_baxter_trajectory/cmake/display_baxter_trajectoryConfig-version.cmake
