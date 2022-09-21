@@ -1,1 +1,0 @@
-/home/fei/baxter_ros_ws/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig.cmake

@@ -1,1 +1,0 @@
-/home/fei/baxter_ros_ws/devel/.private/baxter_maintenance_msgs/share/roseus/ros/baxter_maintenance_msgs/msg/UpdateSource.l

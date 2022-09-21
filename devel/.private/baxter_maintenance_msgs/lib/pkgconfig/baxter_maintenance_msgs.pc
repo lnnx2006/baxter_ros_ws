@@ -1,8 +1,0 @@
-prefix=/home/fei/baxter_ros_ws/devel/.private/baxter_maintenance_msgs
-
-Name: baxter_maintenance_msgs
-Description: Description of baxter_maintenance_msgs
-Version: 1.2.0
-Cflags: -I/home/fei/baxter_ros_ws/devel/.private/baxter_maintenance_msgs/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime std_msgs

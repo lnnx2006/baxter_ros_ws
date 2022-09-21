@@ -1,1 +1,0 @@
-/home/fei/baxter_ros_ws/devel/.private/display_baxter_trajectory/lib/pkgconfig/display_baxter_trajectory.pc
