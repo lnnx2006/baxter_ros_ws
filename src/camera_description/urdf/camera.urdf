@@ -1,0 +1,3233 @@
+<?xml version="1.0" ?>
+<robot name="camera">
+	<link name="camera_base"/>
+	<link name="link_0">
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-261.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-257.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-41.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-254.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-260.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-265.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-40.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-268.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-279.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-267.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-264.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-263.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-266.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-39.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-270.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-273.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-277.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-282.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-278.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-281.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-283.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-280.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-276.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-272.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-45.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-44.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-275.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">partnet_97690c4db20227d248e23e2c398d8046
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-274.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-271.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-269.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-43.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-262.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-259.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-258.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-42.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-256.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-255.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-250.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-252.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-251.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lens-1">
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-253.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-261.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-257.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-41.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-254.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-260.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-265.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-40.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-268.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-279.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-267.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-264.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-263.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-266.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-39.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-270.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-273.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-277.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-282.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-278.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-281.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-283.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-280.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-276.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-272.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-45.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-44.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-275.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-274.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-271.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-269.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-43.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-262.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-259.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-258.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-42.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-256.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-255.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-250.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-252.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-251.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-253.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_0" type="continuous">
+		<origin xyz="0.13334950584707037 -0.05158279685575972 -0.0009453114930599449"/>
+		<axis xyz="0.00011592169093518061 0.018622598301703108 -0.9998265776596735"/>
+		<child link="link_0"/>
+		<parent link="link_9"/>
+	</joint>
+	<link name="link_1">
+		<visual name="button-2">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-168.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-168.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_1" type="prismatic">
+		<origin xyz="0 0 0"/>
+		<axis xyz="0 -1 0"/>
+		<child link="link_1"/>
+		<parent link="link_9"/>
+		<limit lower="0" upper="0.005" effort="10.0" velocity="10.0" />
+	</joint>
+	<link name="link_2">
+		<visual name="button-3">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-163.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-163.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_2" type="prismatic">
+		<origin xyz="0 0 0"/>
+		<axis xyz="0 -1 0"/>
+		<child link="link_2"/>
+		<parent link="link_9"/>
+		<limit lower="0" upper="0.005" effort="10.0" velocity="10.0"/>
+	</joint>
+	<link name="link_3">
+		<visual name="button-4">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-167.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-167.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_3" type="prismatic">
+		<origin xyz="0 0 0"/>
+		<axis xyz="0 -1 0"/>
+		<child link="link_3"/>
+		<parent link="link_9"/>
+		<limit lower="0" upper="0.005" effort="10.0" velocity="10.0"/>
+	</joint>
+	<link name="link_4">
+		<visual name="button-5">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-165.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-165.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_4" type="prismatic">
+		<origin xyz="0 0 0"/>
+		<axis xyz="0 -1 0"/>
+		<child link="link_4"/>
+		<parent link="link_9"/>
+		<limit lower="0" upper="0.005" effort="10.0" velocity="10.0"/>
+	</joint>
+	<link name="link_5">
+		<visual name="button-6">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-166.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-166.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_5" type="prismatic">
+		<origin xyz="0 0 0"/>
+		<axis xyz="0 -1 0"/>
+		<child link="link_5"/>
+		<parent link="link_9"/>
+		<limit lower="0" upper="0.005" effort="10.0" velocity="10.0"/>
+	</joint>
+	<link name="link_6">
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-196.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-35.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-197.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-200.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-202.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-205.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-215.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-226.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-234.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-235.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-227.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-213.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-206.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-207.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-209.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-218.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-208.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-223.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-212.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-222.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-224.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-214.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-229.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-239.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-216.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-228.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-238.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-233.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-241.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-240.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-217.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-220.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-237.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-221.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-230.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-225.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-191.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-231.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-243.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-245.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-248.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-247.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-246.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-244.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-242.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-236.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-232.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-219.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-210.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-211.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-204.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-203.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-201.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-199.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-198.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-195.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-193.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-192.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-194.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="lid-7">
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-249.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-196.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-35.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-197.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-200.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-202.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-205.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-215.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-226.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-234.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-235.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-227.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-213.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-206.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-207.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-209.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-218.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-208.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-223.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-212.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-222.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-224.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-214.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-229.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-239.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-216.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-228.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-238.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-233.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-241.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-240.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-217.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-220.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-237.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-221.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-230.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-225.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-191.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-231.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-243.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-245.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-248.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-247.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-246.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-244.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-242.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-236.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-232.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-219.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-210.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-211.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-204.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-203.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-201.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-199.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-198.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-195.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-193.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-192.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-194.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="-0.13334950584707037 0.05158279685575971 0.0009453114930599447"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-249.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_6" type="prismatic">
+		<origin xyz="0.0 6.938893903907228e-18 2.168404344971009e-19"/>
+		<axis xyz="-0.00011592169093518061 -0.018622598301703108 0.9998265776596735"/>
+		<child link="link_6"/>
+		<parent link="link_0"/>
+		<limit lower="0" upper="0.01" effort="10.0" velocity="10.0"/>
+	</joint>
+	<link name="link_7">
+		<visual name="button-9">
+			<origin xyz="0.5379051141176368 -0.3057729441763128 0.026039327396323766"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-52.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="button-9">
+			<origin xyz="0.5379051141176368 -0.3057729441763128 0.026039327396323766"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-54.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="button-9">
+			<origin xyz="0.5379051141176368 -0.3057729441763128 0.026039327396323766"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-53.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="0.5379051141176368 -0.3057729441763128 0.026039327396323766"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-52.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0.5379051141176368 -0.3057729441763128 0.026039327396323766"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-54.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0.5379051141176368 -0.3057729441763128 0.026039327396323766"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-53.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_7" type="continuous">
+		<origin xyz="-0.5379051141176368 0.3057729441763128 -0.026039327396323766"/>
+		<axis xyz="-0.028119946928981388 0.035603714774429945 0.9989702918900905"/>
+		<child link="link_7"/>
+		<parent link="link_9"/>
+	</joint>
+	<link name="link_8">
+		<visual name="button-10">
+			<origin xyz="0.3656472423649019 0.027752174421209568 0.2745861099795114"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-81.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="button-10">
+			<origin xyz="0.3656472423649019 0.027752174421209568 0.2745861099795114"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-80.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="0.3656472423649019 0.027752174421209568 0.2745861099795114"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-81.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0.3656472423649019 0.027752174421209568 0.2745861099795114"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-80.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_8" type="continuous">
+		<origin xyz="-0.3656472423649019 -0.027752174421209568 -0.2745861099795114"/>
+		<axis xyz="0.07570393242486465 -0.9971303393637376 -3.059034106094696e-05"/>
+		<child link="link_8"/>
+		<parent link="link_9"/>
+	</joint>
+	<link name="link_9">
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-103.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-100.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-123.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-21.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-30.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-152.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-132.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-154.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-126.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-169.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-119.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-188.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-124.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-96.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-64.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-134.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-71.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-83.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-22.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-26.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-117.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-110.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-153.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-107.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-160.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-104.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-149.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-128.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-65.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-130.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-137.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-139.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-112.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-162.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-106.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-86.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-8.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-173.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-140.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-147.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-109.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-9.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-125.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-148.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-172.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-138.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-156.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-286.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-49.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-184.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-93.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-61.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-144.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-120.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-59.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-77.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-114.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-150.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-63.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-185.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-159.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-170.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-87.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-51.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-55.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-113.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-50.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-141.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-111.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-287.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-31.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-187.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-178.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-48.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-15.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-116.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-85.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-177.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-122.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-56.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-135.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-76.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-108.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-175.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-186.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-72.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-99.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-136.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-127.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-62.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-75.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-174.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-133.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-158.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-66.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-182.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-58.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-145.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-98.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-67.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-69.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-11.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-131.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-68.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-146.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-190.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-70.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-161.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-74.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-189.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-118.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-91.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-73.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-181.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-92.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-183.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-171.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-288.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-142.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-285.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-79.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-102.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-24.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-20.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-88.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-115.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-47.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-95.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-105.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-101.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-180.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-84.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-121.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-94.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-78.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-97.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-157.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-89.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-179.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-14.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-82.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-129.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-60.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-284.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-90.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-143.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-151.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-155.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-176.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-57.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<visual name="base_body-11">
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-164.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</visual>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-103.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-100.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-123.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-21.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-30.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-152.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-132.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-154.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-126.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-169.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-119.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-188.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-124.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-96.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-64.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-134.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-71.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-83.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-22.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-26.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-117.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-110.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-153.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-107.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-160.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-104.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-149.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-128.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-65.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-130.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-137.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-139.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-112.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-162.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-106.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-86.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-8.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-173.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-140.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-147.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-109.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-9.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-125.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-148.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-172.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-138.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-156.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-286.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-49.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-184.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-93.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-61.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-144.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-120.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-59.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-77.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-114.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-150.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-63.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-185.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-159.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-170.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-87.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-51.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-55.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-113.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-50.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-141.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-111.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-287.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-31.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-187.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-178.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-48.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-15.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-116.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-85.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-177.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-122.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-56.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-135.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-76.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-108.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-175.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-186.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-72.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-99.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-136.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-127.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-62.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-75.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-174.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-133.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-158.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-66.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-182.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-58.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-145.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-98.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-67.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-69.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-11.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-131.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-68.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-146.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-190.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-70.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-161.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-74.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-189.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-118.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-91.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-73.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-181.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-92.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-183.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-171.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-288.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-142.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-285.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-79.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-102.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-24.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-20.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-88.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-115.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-47.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-95.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-105.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-101.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-180.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-84.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-121.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-94.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-78.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-97.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-157.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-89.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-179.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-14.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-82.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-129.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-60.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-284.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-90.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-143.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-151.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-155.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-176.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-57.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+		<collision>
+			<origin xyz="0 0 0"/>
+			<geometry>
+				<mesh filename="package://camera_description/mesh/original-164.obj" scale="0.2 0.2 0.2"/>
+			</geometry>
+		</collision>
+	</link>
+	<joint name="joint_9" type="fixed">
+		<origin rpy="1.570796326794897 0 -1.570796326794897" xyz="0 0 0"/>
+		<child link="link_9"/>
+		<parent link="camera_base"/>
+	</joint>
+</robot>

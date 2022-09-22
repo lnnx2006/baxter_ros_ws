@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+<name>camera_description</name>
+  <version>1.2.0</version>
+  <description>
+    Description of Camera
+  </description>
+
+  <maintainer email="sapien@ucsd.edu">
+    sapien.ucsd.edu/
+  </maintainer>
+  <license>BSD</license>
+  
+  <author>sapien.ucsd.edu</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
