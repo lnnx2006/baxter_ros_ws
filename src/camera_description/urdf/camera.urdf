@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <robot name="camera">
-	<link name="camera_base"/>
+	<link name="urdf_camera_base"/>
 	<link name="link_0">
 		<visual name="lens-1">
 			<origin xyz="-0.13334950584707037 0.05158279685575972 0.0009453114930599449"/>
@@ -3228,6 +3228,6 @@
 	<joint name="joint_9" type="fixed">
 		<origin rpy="1.570796326794897 0 -1.570796326794897" xyz="0 0 0"/>
 		<child link="link_9"/>
-		<parent link="camera_base"/>
+		<parent link="urdf_camera_base"/>
 	</joint>
 </robot>
